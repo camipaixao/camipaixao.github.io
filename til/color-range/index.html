@@ -11,34 +11,39 @@
 
 <body>
   <section class="container">
-
-    <h1>Escolha sua cor:</h1>
-    <div class="ranges">
-      <div class="range">
-        <div class="labels">
-          <label><span class="labelRed">(R)</span> Vermelho:</label>
-          <input id="red" type="range" min="0" max="255" value="187" />
+    <div class="topBorder">
+      <div class="bola"></div>
+      <div class="bola"></div>
+      <div class="bola"></div>
+    </div>
+    <div class="content">
+      <h1>Escolha uma cor :}</h1>
+      <div class="ranges">
+        <div class="range">
+          <div class="labels">
+            <label><span class="labelRed">(R)</span> Vermelho:</label>
+            <input id="red" type="range" min="0" max="255" value="187" />
+          </div>
+          <input id="numberRed" type="text" value="187" disabled>
         </div>
-        <input id="numberRed" type="text" value="187" disabled>
-      </div>
 
-      <div class="range">
-        <div class="labels">
-          <label><span class="labelGreen">(G)</span> Verde:</label>
-          <input id="green" type="range" min="0" max="255" value="38" />
+        <div class="range">
+          <div class="labels">
+            <label><span class="labelGreen">(G)</span> Verde:</label>
+            <input id="green" type="range" min="0" max="255" value="38" />
+          </div>
+          <input id="numberGreen" type="text" value="38" disabled>
         </div>
-        <input id="numberGreen" type="text" value="38" disabled>
-      </div>
 
-      <div class="range">
-        <div class="labels">
-          <label><span class="labelBlue">(B)</span> Azul:</label>
-          <input id="blue" type="range" min="0" max="255" value="90" />
+        <div class="range">
+          <div class="labels">
+            <label><span class="labelBlue">(B)</span> Azul:</label>
+            <input id="blue" type="range" min="0" max="255" value="90" />
+          </div>
+          <input id="numberBlue" type="text" value="90" disabled>
         </div>
-        <input id="numberBlue" type="text" value="90" disabled>
       </div>
     </div>
-
   </section>
 
   <script src="./js/script.js"></script>
