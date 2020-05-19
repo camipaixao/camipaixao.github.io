@@ -20,13 +20,13 @@ function start() {
     insertValues();
   }
 
-  inputRed.addEventListener('input', (event) => {
+  inputRed.addEventListener('input', () => {
     insertColor();
   });
-  inputGreen.addEventListener('input', (event) => {
+  inputGreen.addEventListener('input', () => {
     insertColor();
   });
-  inputBlue.addEventListener('input', (event) => {
+  inputBlue.addEventListener('input', () => {
     insertColor();
 
   });
