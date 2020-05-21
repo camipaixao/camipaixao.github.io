@@ -61,7 +61,6 @@ input[type=text] {
   padding: 10px;
   border: 0;
   background: #f3f3f3;
-  color: gray;
   border-radius: 5px;
 }
 label{
@@ -85,4 +84,14 @@ input{
   width: 100%;
   margin: .5rem 0 1rem 0;
   height: 30px;
+}
+@media only screen and (max-width: 991px) {
+  .container{
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  h1{
+    font-size: 1.8rem;
+  }
 }
