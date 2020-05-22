@@ -1,4 +1,4 @@
-<img align="right" src="img/femalecodertocat.png" width="200">
+<img align="right" src="img/femalecodertocat.png" width="300">
 
 # Minha jornada dev frontend <3
 
