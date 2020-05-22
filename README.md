@@ -2,6 +2,8 @@
 
 Sou uma weblover e eterna estudante de JavaScript! :}
 
+<img align="right" src="img/femalecodertocat.png" width="200">
+
 Aqui tem um pouquinho do que estou estudando no momento em busca de me tornar cada vez mais uma melhor Frontend.
 
 - [Mixer RGB](https://camipaixao.github.io/til/color-range/)
