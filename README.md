@@ -8,3 +8,4 @@ Aqui tem um pouquinho do que estou estudando no momento em busca de me tornar ca
 
 - [Mixer RGB](https://camipaixao.github.io/til/color-range/)
 - [Codeflix](https://codeflix-virid.vercel.app/)
+- [Crachá Digital](https://camipaixao.github.io/til/cracha-virtual/)
